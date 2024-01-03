@@ -1,4 +1,4 @@
-During the three weeks that this course runs for, the various execises that will be covered and the results obtained, will be uploaded in this repository. \\
+During the three weeks that this course runs for, the various execises that will be covered and the results obtained, will be uploaded in this repository. 
 On Day 2 when this repository has been created, the exercise covers Version Control using Git, Code structure, Good Coding Practices and Data Version control.
 On day 3, the topic covered is Reproducibility and the sub-topics covered will include several different aspects of Reproducibility and why it is important.
 On day 4, there's an in-depth analysis of Debugging, Profiling and Logging.
